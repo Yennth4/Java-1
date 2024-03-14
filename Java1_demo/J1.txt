@@ -1,0 +1,8 @@
+timKiemChuCai => boolean
+
+sapXep > xuat thong tin
+arrL => maxmin > main: goi bth
+
+Doi tuong => timKien ma nhap > for - return doituong > ngoai for : retunrn null
+xoa Manhap > timKiemMaNhap > if else (doiTuong != null) > xoa va in thong tin
+Main > gan Doituong - if else (doiTuong!=null)
